@@ -1,5 +1,6 @@
 <head>
     <link href='https://fonts.googleapis.com/css?family=Fira Code' rel='stylesheet'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
 <h3 align="center" style="font-family:'Fira Code';">
@@ -15,7 +16,6 @@
     </a>
 </p>
 
-
 <!-- Badges with custom icons -->
 <p align="center">
     <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
@@ -25,5 +25,25 @@
     </a>
     <a href="https://github.com/galaumang?tab=followers">
         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/galaumang?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    </a>
+</p>
+<br/>
+
+<!-- Badges with custom icons -->
+<p align="center">
+    <a href="https://linkedin.com/galaumang">
+        <i class="fa fa-linkedin" style="font-size:36px;color:#f75c7e;"></i>
+    </a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://www.instagram.com/i.umangg/">
+        <i class="fa fa-instagram" style="font-size:36px;color:#f75c7e;"></i>
+    </a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://twitter.com/iumangg">
+        <i class="fa fa-twitter" style="font-size:36px;color:#f75c7e;"></i>
+    </a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://github.com/galaumang">
+        <i class="fa fa-github" style="font-size:36px;color:#f75c7e;"></i>
     </a>
 </p>
