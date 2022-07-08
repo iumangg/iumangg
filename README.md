@@ -1,9 +1,11 @@
 <head>
-    <link href='https://fonts.googleapis.com/css?family=Fira Code' rel='stylesheet'>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Fira+Code&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
-<h3 align="center" style="font-family:'Fira Code';">
+<h3 align="center" style="font-family: 'Architects Daughter', cursive;font-size:18px">
     Welcome to Umang Gala's profile!
 </h3>
 
