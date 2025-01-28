@@ -6,6 +6,7 @@ education:
   - Master's in Computer Science - Distributed Systems & Security
   - Bachelor's in Engineering - Information Technology
 experiences:
+  - ["Senior Software Engineer", "Microsoft", "Noida, India", "Nov 2024 - Present"]
   - ["Software Development Engineer II", "Amazon", "Hyderabad, India", "May 2021 - Feb 2023"]
   - ["Senior Associate Software Engineer", "JP Morgan Chase & CO", "Delaware, USA", "Jan 2019 - May 2021"]
   - ["Associate Software Engineer", "JP Morgan Chase & CO", "Delaware, USA", "Feb 2018 - Jan 2019"]
